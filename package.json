@@ -1,0 +1,14 @@
+{
+  "name": "expressjs-rest-startup-kit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:alissoncs/expressjs-rest-startup-kit.git",
+  "author": "Alisson da Silva <alisson.silva@4all.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "jwt-simple": "^0.5.1",
+    "mysql2": "^1.5.2"
+  }
+}
